@@ -12,3 +12,4 @@ Week 4
 The lesson this week continues to focus on the use of flexboxes on images and texts.
 
 Week 5
+For this week's async lesson, Javascript was introduced to expose us to deeper interactions with CSS and HTML. My biggest takeaway was the DOM, which enabled changes to the webpage on the fly which is very interesting and it is the most easy to understand.
