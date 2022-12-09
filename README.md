@@ -1,2 +1,1 @@
 # JDsWeeklyIDBlog
-hello world
